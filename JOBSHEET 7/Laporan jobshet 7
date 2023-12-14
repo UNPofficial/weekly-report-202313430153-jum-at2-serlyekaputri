@@ -1,0 +1,7 @@
+Array merupakan struktur data yang digunakan untuk menyimpan sekumpulan
+data dalam suatu tempat, array ini juga disebut dengan istilah larik,
+contoh:
+- int angka[5] adalah deklarasi array yang dapat menyimpan 5 elemen bertipe integer.
+- Elemen array diakkses menggunakan indeks, dimana indeks dimulai dari 0. sebagai contoh, angka[0]
+  mengakses elemen pertama.
+- Elemen array dapat diubah dengan menggantinya seperti yang terlihat pada angka[2] = 10;
