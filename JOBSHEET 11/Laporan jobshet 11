@@ -1,0 +1,3 @@
+Fungsi fopen() akan membuka file sesuai dengan mode yang kita berikan. mode (r) artinya read atau baca saja.
+Fungsi fopen() akan menghasilkan sebuah pointer yang menunjuk ke alamat memori dari file yang akan dibuka,
+Karena itulah kita membutuhkan pointer untuk mengaksesnya,

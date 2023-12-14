@@ -1,0 +1,8 @@
+Operator adalah simbol atau tanda khusus yang digunakan untuk melakukan operasi pada satu atau 
+lebih operand. operan dapat berupa variabel, nilai, atau ekpresi.
+operator aritmatika adalah operator yang digunakan untuk operasi matematika. ( +, -, *, /, % )
+operator perbandingan untuk membandingkan dua buah nilai.
+operator penugasan ( Assigment Operator ) merupakan operator untuk 
+memberikan tugas pada variabel dan operator logika.
+Operator bitwise yaitu operator yang digunakan untuk operasi berdasarkan bit ( biner ) 
+dari sebuah nilai.

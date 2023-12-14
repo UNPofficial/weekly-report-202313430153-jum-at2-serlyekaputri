@@ -1,0 +1,7 @@
+Enum ( Enumerations ) adalah tipe data yang digunakan untuk mendefinisikan kumpulan konstanta bernama. 
+Enum biasanya digunakan untuk membuat kelompok konstanta yang terkait.
+contoh 'Days' adalah nama enum, dan kita mendefinisikan konstanta-konstanta seperti
+'SUNDAY', 'MONDAY', dll. di dalam 'main()', kita mendeklarasikan variabel today dengan 
+tipe enum 'Days' dan memberinya nilai 'WEDNESDAY'.
+structure adalah cara untuk menggabungkan beberapa tipe data menjadi satu tipe data yang lebih 
+besar dan kompleks. structure memungkinkan anda membuat kumpulann datya yang terorganisir.

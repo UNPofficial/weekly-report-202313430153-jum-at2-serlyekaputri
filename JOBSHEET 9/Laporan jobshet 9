@@ -1,0 +1,4 @@
+Pointer adalah konsep penting dalam pemograman yang memungkinkan anda untuk 
+mengakses dan memanipulasi data dengan cara yang lebih fleksibel.
+dalam bahasa pemogram c, penggunaan ponter sering kali di perlukan untuk manajemen memori yang efesien,
+operasi pada array, dan berbagai tugas lainnya.
