@@ -1,0 +1,6 @@
+Setiap program memilliki sintaks tersendiri yang dapat diartikan sebagai aturan penulisan kode pada bahasa pemograman. structure program c menjadi dua bagian : 
+-include
+-fungsi main
+Dalam proses input dan output terdapat dua macam fungsi yaitu
+-Output : printf(), puts(), 
+-Input : scanf(), gets(), fgets()
