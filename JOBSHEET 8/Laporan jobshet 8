@@ -1,0 +1,6 @@
+Fungsi adalh blok kode yang dapat dipanggil oleh program utama atau fungdi lain untuk 
+melakukan tugas tertentu. fungsi biasanya dibuat untuk memecah program menjadi
+bagian-bagian yang lebih kecil dan mudah dikelola.
+prosedur adalah blok kode yang mirip dengan fungsi, tetapi tidak mengembalikan nilai ( void ) 
+prosedur biasanya digunakan untuk menjalankan serangkaian pernyataan atau tugas tanpa mengembalikan 
+nilai.
