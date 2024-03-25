@@ -1,0 +1,6 @@
+Data mahasiswa ke-1
+Nama : lala
+NIM : 23343083
+Jurusan : informatika
+Program Studi : s1
+
